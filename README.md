@@ -18,4 +18,4 @@ The disadvatnages are  not knowing if you are doing something wrong and where th
 
 How do these pros and cons apply to refactoring the original VBA script?
 
-The cons are like I mentioned getting an error that you need to debug and you cannot locate where the error was . The pros to refactoring it was that the majority of it was completed so we just needed to put in our values for what we were looking for this project.
+The cons are like I mentioned getting an error that you need to debug and you cannot locate where the error was . The pros to refactoring it was that the majority of it was completed once we downloaded the data set so we just needed to put in our values for what we were looking for , for this project.
